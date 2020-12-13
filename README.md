@@ -1,0 +1,1 @@
+#📝Get next line function
