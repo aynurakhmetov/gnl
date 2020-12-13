@@ -1,4 +1,4 @@
-# 📝Get next line function
+# 📝Get Next Line function
 ### Описание / Description / Тасвирлау
 
 *EN*: study project.
